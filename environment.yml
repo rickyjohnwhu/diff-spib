@@ -1,0 +1,14 @@
+name: diff-spib-env
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pip
+  - ipykernel
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pytorch=2.7.*
+  - notebook
