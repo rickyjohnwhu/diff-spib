@@ -9,7 +9,6 @@ This work pertains to a deanonymized, and now accepted, submission to a NeurIPS 
 ## Setup
 
 The repository is configured to use [Micromamba](https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html).
-```
 
 ## Configuring packages
 
