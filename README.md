@@ -2,7 +2,9 @@
 
 This work pertains to a deanonymized, and now accepted, submission to a NeurIPS workshop.
 
-[image](datasets/NN-diagram.png)
+![image](datasets/nn_diagram.png)
+
+*Neural network architecture of the jointly optimized D-SPIB generative latent diffusion model and information bottleneck encoder-decoder.*
 
 ## Setup
 
