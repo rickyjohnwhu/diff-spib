@@ -1,6 +1,8 @@
 # Diffusive State Predictive Information Bottleneck
 
-This work pertains to a deanonymized, and now accepted, submission to a NeurIPS workshop.
+Codebase for an accepted submission to NeurIPS 2025 [Frontiers of Probabilistic Inference](https://fpineurips.framer.website).
+
+The arXiv preprint can be found [here](https://arxiv.org/abs/2510.09784).
 
 ![image](datasets/nn_diagram.png)
 
