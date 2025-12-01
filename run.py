@@ -27,20 +27,16 @@ os.makedirs(IB_path, exist_ok=True)
 
 # Input model hyperparameters
 
-dt = 20
+dt = 1
 z_dim = 2
 encoder_type = 'Linear'
 neuron_num1 = 16
 neuron_num2 = 16
 batch_size = 512
 tolerance = 0.001
-#patience = 5
-#refinements = 10
-#diff_patience = 50
-#diff_refinements = 0
 patience = 5
-refinements = 5
-diff_patience = 5
+refinements = 10
+diff_patience = 150
 diff_refinements = 0
 learning_rate = 0.001
 beta = 1e-5
